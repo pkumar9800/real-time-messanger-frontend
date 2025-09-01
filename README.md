@@ -1,0 +1,1 @@
+This project is the frontend of full stack real time messanger application.
