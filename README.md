@@ -5,12 +5,12 @@ This project demonstrates real-time communication, scalable backend design, and 
 
 **Live Demo**
 
-[Try It]()
+[Try It](https://real-time-messanger.vercel.app/login)
 
 
 # 🎥 Demonstration Video
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
+[Watch the video]() soon to be added.
 
 
 ## ✨ Features
